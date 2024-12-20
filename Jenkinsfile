@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        GIT_REPO = 'https://github.com/leeroyjenkins123/RGZ_AVS.git'
+        GIT_REPO = 'https://github.com/Rouva-Huu/RGZ_AVS.git'
         BRANCH_NAME = 'main'  // Убедитесь, что указана правильная ветка
     }
 
